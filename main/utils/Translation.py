@@ -6,13 +6,12 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Language(object):
     class en(object):
         START_TEXT = """
-**👋 Hᴇʏ, {}**\n
-<i>I'm Telegram Files Streaming Bot As Well Direct Links Generator</i>\n
-<i>Click On Help To Get More Information</i>\n
-<b><i><u>Warning 🚸</u></i></b>\n
-<b>🔞 Pron Contents Leads To Permanenet Ban You.</b>"""
+**👋 Hola. Bienvenid@ {}**\n
+<i>Soy un bot para Generar links de Descarga Directa</i>\n
+<b><i><u>Cuidado 🚸</u></i></b>\n
+<b>🔞 Evite enviar contenido pornográfico al bot o será baneado permanentemente del bot.</b>"""
 
-        HELP_TEXT = """🔰 **How to Use Me ?**
+        HELP_TEXT = """🔰 **Como Usarme ?**
 
 <i>- Send Me Any File Or Media From Telegram.</i>
 <i>- I Will Provide External Direct Download Link !</i>
@@ -20,18 +19,18 @@ class Language(object):
 **Download Link With Fastest Speed ⚡️**
 
 <b><i><u>Warning 🚸</u></i></b>
-<b>🔞 Pron Contents Leads To Permanenet Ban You.</b></b>\n
-<i>Contact Developer Or Report Bugs</i> <b>: <a href='https://t.me/TechZBots_Support'>[ Click Here ]</a></b>"""
+<b>🔞 Evite enviar contenido pornográfico al bot o será baneado permanentemente del bot.</b></b>\n
+Contactar con mi Desarrallador para reportar Bug</i> <b>: <a href='https://t.me/LAES2002'>[ Contactar ]</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ My Name : TG Direct Link Generator</b>\n
-<b>⚜ Username : @TGDirectLinkGenBot</b>\n
-<b>🔸Version : 1.0</b>\n
+<b>⚜ My Name : File To Links Pro Generator</b>\n
+<b>⚜ Username : @FileToLinksPro_bot</b>\n
+<b>🔸Version : 2.0</b>\n
 <b>🔹Last Updated : [ 04-Apr-22 ]</b>
 """
 
         stream_msg_text ="""
-<u>**Successfully Generated Your Link !**</u>\n
+<u>**Links Generado con Éxito  !**</u>\n
 <b>📂 File Name :</b> {}\n
 <b>📦 File Size :</b> {}\n
 <b>📥 Download :</b> {}\n
