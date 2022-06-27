@@ -13,8 +13,7 @@ class Language(object):
 
         HELP_TEXT = """🔰 **Como Usarme ?**
 
-<i>- Send Me Any File Or Media From Telegram.</i>
-<i>- I Will Provide External Direct Download Link !</i>
+<i>- Reenvíame un archivo de Telegram para Generar el enlace de Descarga Directa.</i>
 
 **Download Link With Fastest Speed ⚡️**
 
@@ -26,7 +25,7 @@ Contactar con mi Desarrallador para reportar Bug</i> <b>: <a href='https://t.me/
 <b>⚜ My Name : File To Links Pro Generator</b>\n
 <b>⚜ Username : @FileToLinksPro_bot</b>\n
 <b>🔸Version : 2.0</b>\n
-<b>🔹Last Updated : [ 04-Apr-22 ]</b>
+<b>🔹Last Updated : [ 27-Jun-22 ]</b>
 """
 
         stream_msg_text ="""
@@ -43,17 +42,17 @@ Contactar con mi Desarrallador para reportar Bug</i> <b>: <a href='https://t.me/
 class BUTTON(object):
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('Ayuda', callback_data='help'),
+        InlineKeyboardButton('Info', callback_data='about')
         ],        
-        [InlineKeyboardButton("Updates Channel", url='https://t.me/TechZBots'),
-        InlineKeyboardButton("Repo", url='https://github.com/TechShreyash/TG-Direct-Link-Generator')]
+        [InlineKeyboardButton("Canal", url='https://t.me/FreeXDownloader'),
+        InlineKeyboardButton("Chat", url='https://t.me/freeDownloader_Chat')]
         ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('Ayuda', callback_data='home'),
+        InlineKeyboardButton('Info', callback_data='about')
         ],
         [
         InlineKeyboardButton('Close', callback_data='close'),
@@ -62,8 +61,8 @@ class BUTTON(object):
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Home', callback_data='home'),
-        InlineKeyboardButton('Help', callback_data='help')
+        InlineKeyboardButton('Infl', callback_data='home'),
+        InlineKeyboardButton('Ayuda', callback_data='help')
         ],
         [
         InlineKeyboardButton('Close', callback_data='close'),
