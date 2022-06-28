@@ -45,6 +45,7 @@ class BUTTON(object):
         InlineKeyboardButton('Ayuda', callback_data='help'),
         InlineKeyboardButton('Información', callback_data='about')
         ],        
+        ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
