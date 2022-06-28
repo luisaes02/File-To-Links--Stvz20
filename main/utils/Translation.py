@@ -6,10 +6,10 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Language(object):
     class en(object):
         START_TEXT = """
-**👋 Hola. Bienvenid@ {}**\n
-<i>Soy un bot para Generar links de Descarga Directa</i>\n
-<b><i><u>Cuidado 🚸</u></i></b>\n
-<b>🔞 Evite enviar contenido pornográfico al bot o será baneado permanentemente del bot.</b>"""
+**Hola... Bienvenido al bot de @EL_Wizard {}**\n
+<i>Bot creado para genarar descrgado directa</i>\n
+<b><i><u>Cuidado</u></i></b>\n
+<b>El que envie porno lo baneo 😑🍧</b>"""
 
         HELP_TEXT = """🔰 **Como Usarme ?**
 
@@ -23,19 +23,19 @@ Contactar con mi Desarrallador para reportar Bug</i> <b>: <a href='https://t.me/
 
         ABOUT_TEXT = """
 <b>⚜ My Name : File To Links Pro Generator</b>\n
-<b>⚜ Username : @FileToLinksPro_bot</b>\n
+<b>⚜ Username : @file_to_link_Wizard_bot</b>\n
 <b>🔸Version : 2.0</b>\n
 <b>🔹Last Updated : [ 27-Jun-22 ]</b>
 """
 
         stream_msg_text ="""
 <u>**Links Generado con Éxito  !**</u>\n
-<b>📂 File Name :</b> {}\n
-<b>📦 File Size :</b> {}\n
-<b>📥 Download :</b> {}\n
-<b>🖥 Watch :</b> {}"""
+<b>ඞ File Name :</b> {}\n
+<b>ඞ File Size :</b> {}\n
+<b>ඞ Download :</b> {}\n
+<b>ඞ Watch :</b> {}"""
 
-        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/TechZBots_Support) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
+        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/EL_Wizard) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
 # ------------------------------------------------------------------------------
 
@@ -45,9 +45,6 @@ class BUTTON(object):
         InlineKeyboardButton('Ayuda', callback_data='help'),
         InlineKeyboardButton('Info', callback_data='about')
         ],        
-        [InlineKeyboardButton("Canal", url='https://t.me/FreeXDownloader'),
-        InlineKeyboardButton("Chat", url='https://t.me/freeDownloader_Chat')]
-        ]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
