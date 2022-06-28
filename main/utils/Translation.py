@@ -8,24 +8,24 @@ class Language(object):
         START_TEXT = """
 **Hola... Bienvenido al bot de @EL_Wizard {}**\n
 <i>Bot creado para genarar enlace de descarga directa</i>\n
-<b><i><u>Cuidado</u></i></b>\n
-<b>El que envie porno lo baneo 😑🍧</b>"""
+<b><i><u>No lo hagas</u></i></b>\n
+<b>No me escriban por Privado para pedirme el código</b>"""
 
         HELP_TEXT = """🔰 **Como Usar el bot?**
 
 <i>- Envíame o reenvíame un archivo para generar el enlace de descarga directa.</i>
 
-**Download Link With Fastest Speed ⚡️**
+**Enlace de descarga con la velocidad más rápida 🤫🍧**
 
 <b><i><u>Warning 🚸</u></i></b>
-<b>No manden porno o los baneo.</b></b>\n
+<b>La unica regla que voy a poner es que no me escriban por Privado para pedirme el código.</b></b>\n
 Alguna duda o Bug contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>[ Contactar ]</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ My Name: ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤</b>\n
 <b>⚜ Username: @file_to_link_Wizard_bot</b>\n
 <b>🔸Version: 2.0</b>\n
-<b>🔹 Última Actualización: [ 27-Jun-22 ]</b>
+<b>🔹Última Actualización: [ 28-Jun-22 ]</b>
 """
 
         stream_msg_text ="""
