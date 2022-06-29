@@ -9,7 +9,7 @@ class Language(object):
 **Hola... Envíame cualquier archivo para obtener el enlace de descarga directa{}**\n
 <i>Que disfrutes del bot creado con ❤️❤️ por @EL_Wizard</i>\n
 <b><i><u>Comandos</u></i></b>\n
-<b>Manda /about para saber información del bot </b>"""
+<b>Manda /about para saber información del bot </b>"""\n
 <b>Manda /help para obtener información del bot<b>
 
         HELP_TEXT = """🔰 **Como Usar el bot?**
