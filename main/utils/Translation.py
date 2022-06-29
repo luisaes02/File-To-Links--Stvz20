@@ -7,9 +7,10 @@ class Language(object):
     class en(object):
         START_TEXT = """
 **Hola... Envíame cualquier archivo para obtener el enlace de descarga directa{}**\n
-<i>Bot creado para genarar enlace de descarga directa</i>\n
-<b><i><u>Bienvenido</u></i></b>\n
-<b>Que disfrutes del bot creado con ❤️❤️ por @EL_Wizard</b>"""
+<i>Que disfrutes del bot creado con ❤️❤️ por @EL_Wizard</i>\n
+<b><i><u>Comandos</u></i></b>\n
+<b>Manda /about para saber información del bot </b>/n
+<b>Manda /help para obtener ayudar de como usar el bot </b>
 
         HELP_TEXT = """🔰 **Como Usar el bot?**
 
