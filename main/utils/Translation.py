@@ -13,7 +13,7 @@ class Language(object):
 
         HELP_TEXT = """🔰 **Como Usar el bot?**
 
-<b>➽ Envia o reenvia cualquier archivo de Telegram y te dare un enlace de descarga directa</b>
+<b>➽ Envia o reenvia cualquier archivo de Telegram y te dare un enlace de descarga directa</b>\n
 <b>➽ Si envia un archivo multimedia recibirá 2 enlaces uno para descargar y otro para ver</b>
 
 **Enlace de descarga con la velocidad más rápida 🤫🍧**
