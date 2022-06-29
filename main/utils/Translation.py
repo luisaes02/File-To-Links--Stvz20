@@ -8,12 +8,13 @@ class Language(object):
         START_TEXT = """
 **Hola... Envíame cualquier archivo para obtener el enlace de descarga directa{}**\n
 <i>Que disfrutes del bot creado con ❤️❤️ por @EL_Wizard</i>\n
-<b><i><u>Comandos</u></i></b>\n
+<b><u>Comandos</u></b>\n
 <b>➽ /help para obtener ayuda del bot</b>"""
 
         HELP_TEXT = """🔰 **Como Usar el bot?**
 
-<i>- Envía o reenvia un archivo para generar el enlace de descarga directa.</i>
+<b>➽ Envia o reenvia cualquier archivo de Telegram y te dare un enlace de descarga directa</b>
+<b>➽ Si envia un archivo multimedia recibirá 2 enlaces uno para descargar y otro para ver</b>
 
 **Enlace de descarga con la velocidad más rápida 🤫🍧**
 
