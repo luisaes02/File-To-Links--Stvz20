@@ -6,14 +6,14 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Language(object):
     class en(object):
         START_TEXT = """
-**Hola... Bienvenido al bot de @EL_Wizard {}**\n
+**Hola... Envíame cualquier archivo para obtener el enlace de descarga directa{}**\n
 <i>Bot creado para genarar enlace de descarga directa</i>\n
-<b><i><u>No lo hagas</u></i></b>\n
-<b>No me escriban por Privado para pedirme el código</b>"""
+<b><i><u>Bienvenido</u></i></b>\n
+<b>Que disfrutes del bot creado con ❤️❤️ por @EL_Wizard</b>"""
 
         HELP_TEXT = """🔰 **Como Usar el bot?**
 
-<i>- Envíame o reenvíame un archivo para generar el enlace de descarga directa.</i>
+<i>- Envía o reenvia un archivo para generar el enlace de descarga directa.</i>
 
 **Enlace de descarga con la velocidad más rápida 🤫🍧**
 
@@ -25,7 +25,7 @@ Alguna duda o Bug contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>[ Contac
 <b>⚜ My Name: ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤</b>\n
 <b>⚜ Username: @file_to_link_Wizard_bot</b>\n
 <b>🔸Version: 2.0</b>\n
-<b>🔹Última Actualización: [ 28-Jun-22 ]</b>
+<b>🔹Última Actualización: [ 29-Jun-22 ]</b>
 """
 
         stream_msg_text ="""
