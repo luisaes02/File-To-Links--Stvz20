@@ -22,7 +22,7 @@ class Language(object):
 
 <b><u>Regla 🚸</u></b>
 <b>La unica regla que voy a poner es que no me escriban por Privado para pedirme el código.</b></b>\n
-Alguna duda o sugerencia contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>[ Contactar ]</a></b>"""
+Alguna duda o sugerencia contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>*•.¸♡𝓽​ꫝ​ꫀ​᭙𝓲ɀ​ꪖ𝘳​ᦔ•✖‿✖ ඞ</a></b>"""
 
         ABOUT_TEXT = """
 <b>⚜ My Name:</b> ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤\n
