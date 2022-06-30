@@ -15,20 +15,20 @@ class Language(object):
         HELP_TEXT = """🔰 **Como Usar el bot?**
 
 <b>➽ Envia o reenvia cualquier archivo de Telegram y te dare un enlace de descarga directa</b>\n
-<b>➽ Si envia un archivo multimedia recibirá 2 enlaces uno para descargar y otro para ver</b>
+<b>➽ Si envia un archivo multimedia recibirá 2 enlaces uno para descargar y otro para ver</b>\n
 <b>➽ La velocidad de descarga es superior a <u>6mb/s</u></b>
 
 **<b><u>La duración del enlace son 24 horas**</b></u>
 
 <b><u>Regla 🚸</u></b>
 <b>La unica regla que voy a poner es que no me escriban por Privado para pedirme el código.</b></b>\n
-Alguna duda o Bug contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>[ Contactar ]</a></b>"""
+Alguna duda o sugerencia contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>[ Contactar ]</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ My Name: ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤</b>\n
-<b>⚜ Username: @file_to_link_Wizard_bot</b>\n
-<b>🔸Version: 3.0</b>\n
-<b>🔹Última Actualización: [ 29-Jun-22 ]</b>
+<b>⚜ My Name:</b> ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤\n
+<b>⚜ Username:</b> @file_to_link_Wizard_bot\n
+<b>🔸Version:</b> 3.0\n
+<b>🔹Última Actualización:</b> [ 29-Jun-22 ]
 """
 
         stream_msg_text ="""
