@@ -25,10 +25,10 @@ class Language(object):
 Alguna duda o sugerencia contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>*•.¸♡𝓽​ꫝ​ꫀ​᭙𝓲ɀ​ꪖ𝘳​ᦔ•✖‿✖ ඞ</a></b>"""
 
         ABOUT_TEXT = """
-<b>⚜ My Name:</b> ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤\n
-<b>⚜ Username:</b> @file_to_link_Wizard_bot\n
-<b>🔸Version:</b> 3.0\n
-<b>🔹Última Actualización:</b> [ 29-Jun-22 ]
+<b>➽ My Name:</b> ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤\n
+<b>➽ Username:</b> @file_to_link_Wizard_bot\n
+<b>➽ Version:</b> 3.0\n
+<b>➽ Última Actualización:</b> [ 29-Jun-22 ]
 """
 
         stream_msg_text ="""
