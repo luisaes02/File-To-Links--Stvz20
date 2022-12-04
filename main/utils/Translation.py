@@ -6,8 +6,8 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Language(object):
     class en(object):
         START_TEXT = """
-**Hola... Envíame cualquier archivo para obtener el enlace de descarga directa{}**\n
-<i>Que disfrutes del bot creado con ❤️❤️ por @EL_Wizard</i>\n
+**ɦσℓα... εɳѵเ́αɱε cµαℓφµเεɾ αɾcɦเѵσ ραɾα σɓƭεɳεɾ εℓ εɳℓαcε ∂ε ∂εรcαɾɠα ∂เɾεcƭα{}**\n
+<i>BoT Perteneciente a la cadena de Descargas Gratis en Cuba, Si deseas Formar parte de ello, no lo dudes tenemos los precios más bajos ☺️\nUnete https://t.me/UploadFastBoTFree</i>\n
 <b><u>Comandos</u></b>\n
 <b>➽ /help para obtener ayuda del bot</b>\n
 <b>➽ /about para obtener información del bot</b>"""
@@ -22,23 +22,23 @@ class Language(object):
 
 <b><u>Regla 🚸</u></b>
 <b>La unica regla que voy a poner es que no me escriban por Privado para pedirme el código.</b></b>\n
-Alguna duda o sugerencia contáctame</i> <b>: <a href='https://t.me/EL_Wizard'>*•.¸♡𝓽​ꫝ​ꫀ​᭙𝓲ɀ​ꪖ𝘳​ᦔ•✖‿✖ ඞ</a></b>"""
+Alguna duda o sugerencia contáctame</i> <b>: <a href='https://t.me/StvStvz20'Stvz20</a></b>"""
 
         ABOUT_TEXT = """
 <b>➽ My Name:</b> ➳ᴹᴿ᭄ԲɿՆ૯੮૦ՆɿՈқ✤\n
-<b>➽ Username:</b> @file_to_link_Wizard_bot\n
+<b>➽ Username:</b> @File2ToLinksbot\n
 <b>➽ Version:</b> 3.0\n
-<b>➽ Última Actualización:</b> [ 29-Jun-22 ]
+<b>➽ Última Actualización:</b> [ 04-Dic-22 ]
 """
 
         stream_msg_text ="""
-<u>**Links Generado con Éxito 🙂🍧**</u>\n
+<u>**Links Generado con Éxito 🙂** Únete https://t.me/UploadFastBoTFree</u>\n
 <b>ඞ Nombre del archivo:</b> {}\n
 <b>ඞ Tamaño del archivo:</b> {}\n
 <b>ඞ Descargar:</b> {}\n
 <b>ඞ Ver:</b> {}"""
 
-        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/EL_Wizard) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
+        ban_text="__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](https://t.me/Stvz20) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
 # ------------------------------------------------------------------------------
 
