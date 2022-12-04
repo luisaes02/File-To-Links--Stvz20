@@ -50,7 +50,7 @@ async def start_services():
         asyncio.create_task(utils.ping_server())
     print("--------------------- Initalizing Web Server ---------------------")
     await server.setup()
-    bind_address = "0.0.0.0" if Var.ON_HEROKU else Var.BIND_ADDRESS
+    bind_address = "filetolink-mrti.onrender.com" if Var.ON_HEROKU else Var.BIND_ADDRESS
     await web.TCPSite(server, bind_address, Var.PORT).start()
     print("------------------------------ DONE ------------------------------")
     print()
